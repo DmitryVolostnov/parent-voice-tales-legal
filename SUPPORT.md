@@ -17,7 +17,7 @@ Yes. Recording your first voice clone is free. Each additional family voice cost
 1 token narrates about 1,000 characters (~1 minute of audio). The exact price is always shown before you create an audiobook. Re-listening to anything you've already narrated is free, forever. If narration fails, you are never charged.
 
 **I paid but tokens didn't arrive.**
-Open the Tokens tab and tap "Restore purchases". If that doesn't help, email us with your Support ID and the App Store receipt.
+Open the Tokens tab and tap "Missing tokens? Restore them" — this delivers any purchase that was paid for but not credited (for example if the app closed mid-purchase) and refreshes your balance. Tokens are consumable, so they are tied to your device rather than to your Apple Account. If the balance still looks wrong, email us with your Support ID and we'll fix it manually.
 
 **How do I delete my voice or all my data?**
 Swipe left on a voice in Settings to delete it, or use Settings → "Delete all my data" to remove everything: voice clones, narrated audio, and your balance — from our servers and your device. See our [Privacy Policy](PRIVACY.md) for details.
