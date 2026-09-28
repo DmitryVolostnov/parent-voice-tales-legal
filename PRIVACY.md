@@ -1,6 +1,6 @@
 # Privacy Policy — Parent Voice Tales
 
-_Last updated: September 14, 2026_
+_Last updated: September 28, 2026_
 
 Parent Voice Tales ("the App", "we") helps parents narrate bedtime stories in
 their own voice. This policy explains what data we collect and how we use it.
@@ -38,6 +38,19 @@ validated with Apple to credit tokens.
 location, or your child's personal data. The App is operated by the parent;
 children are listeners.
 
+**Our website (goodnightmoon.app).** The website uses the Meta Pixel, a
+cookie-based measurement tool from Meta Platforms. When you visit the page, it
+tells Meta that the page was viewed and whether the App Store button was
+tapped, together with technical data such as your IP address, browser, and
+the ad you came from. We use this only to measure and improve our ads on
+Facebook and Instagram. Meta processes this data under its own
+[privacy policy](https://www.facebook.com/privacy/policy/). You can block it
+with your browser's tracking protection or an ad blocker, and control ad
+personalization in your Meta
+[ad preferences](https://accountscenter.facebook.com/ad_preferences). The
+website does not ask for or store any other personal information, and none of
+this data is linked to the App.
+
 ## Consent for voice cloning
 
 You may only clone **your own voice**. Creating a voice requires an explicit
@@ -56,6 +69,8 @@ We share data only with the processors required to run the App:
   provide)
 - **Cloudflare** — hosting, storage
 - **Apple** — in-app purchase processing
+- **Meta** — ad measurement on our website only (see "Our website" above);
+  Meta receives no data from the App
 
 These providers act as our data processors: they process your data only to
 provide the features described above, under agreements and privacy policies
