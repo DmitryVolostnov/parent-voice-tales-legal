@@ -1,8 +1,8 @@
-# Terms of Use — Parent Voice Tales
+# Terms of Use — Bedtime Stories in Your Voice
 
 _Last updated: July 23, 2026_
 
-By using Parent Voice Tales ("the App") you agree to these terms.
+By using Bedtime Stories in Your Voice ("the App") you agree to these terms.
 
 ## 1. The service
 

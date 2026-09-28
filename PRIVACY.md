@@ -1,8 +1,8 @@
-# Privacy Policy — Parent Voice Tales
+# Privacy Policy — Bedtime Stories in Your Voice
 
 _Last updated: September 28, 2026_
 
-Parent Voice Tales ("the App", "we") helps parents narrate bedtime stories in
+Bedtime Stories in Your Voice ("the App", "we") helps parents narrate bedtime stories in
 their own voice. This policy explains what data we collect and how we use it.
 
 ## What we collect

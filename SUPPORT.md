@@ -1,6 +1,6 @@
-# Parent Voice Tales — Support
+# Bedtime Stories in Your Voice — Support
 
-Thanks for using Parent Voice Tales! We're a small team and answer every email.
+Thanks for using Bedtime Stories in Your Voice! We're a small team and answer every email.
 
 ## Contact us
 
