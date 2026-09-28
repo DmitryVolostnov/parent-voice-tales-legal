@@ -38,7 +38,7 @@ validated with Apple to credit tokens.
 location, or your child's personal data. The App is operated by the parent;
 children are listeners.
 
-**Our website (goodnightmoon.app).** The website uses the Meta Pixel, a
+**Our website (storiesinyourvoice.com).** The website uses the Meta Pixel, a
 cookie-based measurement tool from Meta Platforms. When you visit the page, it
 tells Meta that the page was viewed and whether the App Store button was
 tapped, together with technical data such as your IP address, browser, and
