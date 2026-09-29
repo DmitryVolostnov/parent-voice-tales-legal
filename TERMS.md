@@ -18,6 +18,9 @@ based on your ideas. Narration is powered by third-party AI providers.
   consent is prohibited and grounds for immediate account termination.
 - Your voice clone is private to your account and is never made available to
   other users.
+- A "voice from afar" link may only be sent to the person whose voice will be
+  recorded; they must record themselves and give their own consent on the
+  recording page.
 
 ## 3. Tokens and purchases
 

@@ -14,6 +14,20 @@ with strict confidentiality. Your voice clone is used only to narrate stories
 inside the App at your request, and is never shared with other users or third
 parties beyond the speech provider.
 
+**Voices from afar.** A parent can send a one-time link to a relative (for
+example, a grandparent). The relative opens it on our website, records a short
+passage in their own browser and gives their own explicit consent before the
+recording is sent to ElevenLabs to create a voice clone. The clone is added to
+the parent's account and used only to narrate stories in the App for that
+family. The website does not ask the relative for any other personal data; the
+name they enter (like "Grandma") is used only as the voice's label.
+
+**iCloud backup.** If iCloud Drive is on, the tales you wrote or imported,
+their illustrations, your narration list and progress, and recordings of your
+reading are copied to the App's private folder in your own iCloud account, so
+they come back after reinstalling or on a new iPhone. This data is stored by
+Apple under your Apple Account; we have no access to it.
+
 **Recordings of your reading.** If you record yourself reading a tale aloud
 in the reader, the recording is saved only on your device. It is never
 uploaded to our servers or shared with any provider, and you can delete it at
@@ -69,7 +83,8 @@ this data is linked to the App.
 ## Consent for voice cloning
 
 You may only clone **your own voice**. Creating a voice requires an explicit
-in-app consent confirmation. Recording another person's voice without their
+consent confirmation — in the App, or on the recording page for a voice from
+afar, where the person whose voice it is confirms it themselves. Recording another person's voice without their
 consent violates our Terms of Use and applicable law.
 
 ## Data sharing
