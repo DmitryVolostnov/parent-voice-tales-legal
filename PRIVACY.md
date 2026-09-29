@@ -1,6 +1,6 @@
 # Privacy Policy — Bedtime Stories in Your Voice
 
-_Last updated: September 28, 2026_
+_Last updated: September 29, 2026_
 
 Bedtime Stories in Your Voice ("the App", "we") helps parents narrate bedtime stories in
 their own voice. This policy explains what data we collect and how we use it.
@@ -13,6 +13,11 @@ private voice clone. Voice recordings are biometric-like data: we treat them
 with strict confidentiality. Your voice clone is used only to narrate stories
 inside the App at your request, and is never shared with other users or third
 parties beyond the speech provider.
+
+**Recordings of your reading.** If you record yourself reading a tale aloud
+in the reader, the recording is saved only on your device. It is never
+uploaded to our servers or shared with any provider, and you can delete it at
+any time by deleting the tale or the app.
 
 **Story details you provide.** If you use the "Create your own tale" feature,
 the details you type or dictate (for example, your child's first name, age, or
