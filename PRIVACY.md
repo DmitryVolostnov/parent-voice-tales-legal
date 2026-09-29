@@ -39,9 +39,19 @@ device.
 UUID). We do not collect your name, email, or contacts. Purchase receipts are
 validated with Apple to credit tokens.
 
-**We do not collect** analytics profiles, advertising identifiers, precise
-location, or your child's personal data. The App is operated by the parent;
-children are listeners.
+**Usage analytics.** To understand which features work and fix problems, the
+App sends usage events (for example, which screens were opened, that a story
+was narrated or a purchase completed, and error codes) to our analytics
+provider Amplitude, together with the anonymous identifier above and basic
+device information (device model, iOS version, app version, language, and
+approximate country derived from the IP address). Events never contain story
+text, the details you type about your child, voice recordings, or voice names.
+Analytics data is not used for advertising and is not linked to your identity
+in other apps.
+
+**We do not collect** advertising identifiers, precise location, or your
+child's personal data, and we do not track you across other companies' apps
+or websites. The App is operated by the parent; children are listeners.
 
 **Our website (storiesinyourvoice.com).** The website uses the Meta Pixel, a
 cookie-based measurement tool from Meta Platforms. When you visit the page, it
@@ -73,6 +83,7 @@ We share data only with the processors required to run the App:
 - **Anthropic** — AI story generation (Claude) (receives the story details you
   provide)
 - **Cloudflare** — hosting, storage
+- **Amplitude** — anonymous usage analytics (see "Usage analytics" above)
 - **Apple** — in-app purchase processing
 - **Meta** — ad measurement on our website only (see "Our website" above);
   Meta receives no data from the App
@@ -88,7 +99,7 @@ Voice clones and audio remain stored while you use the App. Deleting a voice
 in Settings removes the voice clone from ElevenLabs as well. You can delete
 everything at once with "Delete all my data" in Settings — this removes your
 voice clones, generated audio, and balance from our servers immediately. You
-can also contact us at the email below with your User ID (Settings) — we will
+can also contact us (see Contact below) with your Support ID (Settings) — we will
 delete your data within 30 days.
 
 ## Children's privacy
@@ -104,4 +115,6 @@ on this page with a new "Last updated" date.
 
 ## Contact
 
-Dmitriy Volostnov — volostnovdm@gmail.com
+Dmitriy Volostnov — write to us at
+[storiesinyourvoice.com/support](https://storiesinyourvoice.com/support) or
+volostnovdm@gmail.com

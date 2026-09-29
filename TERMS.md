@@ -1,6 +1,6 @@
 # Terms of Use — Bedtime Stories in Your Voice
 
-_Last updated: July 23, 2026_
+_Last updated: September 29, 2026_
 
 By using Bedtime Stories in Your Voice ("the App") you agree to these terms.
 
@@ -65,4 +65,6 @@ data deletion (see the Privacy Policy).
 
 ## Contact
 
-Dmitriy Volostnov — volostnovdm@gmail.com
+Dmitriy Volostnov — write to us at
+[storiesinyourvoice.com/support](https://storiesinyourvoice.com/support) or
+volostnovdm@gmail.com
