@@ -74,18 +74,20 @@ in other apps.
 child's personal data, and we do not track you across other companies' apps
 or websites. The App is operated by the parent; children are listeners.
 
-**Our website (storiesinyourvoice.com).** The website uses the Meta Pixel, a
-cookie-based measurement tool from Meta Platforms. When you visit the page, it
-tells Meta that the page was viewed and whether the App Store button was
-tapped, together with technical data such as your IP address, browser, and
-the ad you came from. We use this only to measure and improve our ads on
-Facebook and Instagram. Meta processes this data under its own
-[privacy policy](https://www.facebook.com/privacy/policy/). You can block it
-with your browser's tracking protection or an ad blocker, and control ad
-personalization in your Meta
-[ad preferences](https://accountscenter.facebook.com/ad_preferences). The
-website does not ask for or store any other personal information, and none of
-this data is linked to the App.
+**Our website (storiesinyourvoice.com).** The website uses two cookie-based
+ad measurement tools: the Meta Pixel from Meta Platforms and the Google tag
+(Google Ads conversion tracking) from Google. When you visit the page, they
+tell Meta and Google that the page was viewed and whether the App Store button
+was tapped, together with technical data such as your IP address, browser, and
+the ad you came from. We use this only to measure and improve our ads. Meta and
+Google process this data under their own privacy policies
+([Meta](https://www.facebook.com/privacy/policy/),
+[Google](https://policies.google.com/privacy)). You can block these tools with
+your browser's tracking protection or an ad blocker, and control ad
+personalization in your [Meta ad preferences](https://accountscenter.facebook.com/ad_preferences)
+and [Google ad settings](https://myadcenter.google.com/). The website does not
+ask for or store any other personal information, and none of this data is
+linked to the App.
 
 ## Consent for voice cloning
 
@@ -107,8 +109,8 @@ We share data only with the processors required to run the App:
 - **Cloudflare** — hosting, storage
 - **Amplitude** — anonymous usage analytics (see "Usage analytics" above)
 - **Apple** — in-app purchase processing
-- **Meta** — ad measurement on our website only (see "Our website" above);
-  Meta receives no data from the App
+- **Meta** and **Google** — ad measurement on our website only (see "Our
+  website" above); they receive no data from the App
 
 These providers act as our data processors: they process your data only to
 provide the features described above, under agreements and privacy policies
