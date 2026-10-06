@@ -22,6 +22,13 @@ the parent's account and used only to narrate stories in the App for that
 family. The website does not ask the relative for any other personal data; the
 name they enter (like "Grandma") is used only as the voice's label.
 
+**Invitations.** Each account has an invite link to share with friends. When
+someone opens it, our server remembers their network (IP) address together with
+the invite code for up to 7 days, only to credit the friend who invited them
+when they start using the App. A friend counts once they record their voice;
+the person who invited them gets tokens and sees only a count of joined
+friends, never who they are.
+
 **iCloud backup.** If iCloud Drive is on, the tales you wrote or imported,
 their illustrations, your narration list and progress, and recordings of your
 reading are copied to the App's private folder in your own iCloud account, so
