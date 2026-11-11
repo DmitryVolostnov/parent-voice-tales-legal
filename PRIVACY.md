@@ -1,8 +1,8 @@
-# Privacy Policy — Bedtime Stories in Your Voice
+# Privacy Policy — Hushkin: Bedtime Stories
 
-_Last updated: September 29, 2026_
+_Last updated: November 11, 2026_
 
-Bedtime Stories in Your Voice ("the App", "we") helps parents narrate bedtime stories in
+Hushkin: Bedtime Stories ("the App", "we") helps parents narrate bedtime stories in
 their own voice. This policy explains what data we collect and how we use it.
 
 ## What we collect
@@ -57,8 +57,7 @@ servers (Cloudflare R2) so you can re-listen for free, and cached on your
 device.
 
 **Account data.** The App uses an anonymous installation identifier (a random
-UUID). We do not collect your name, email, or contacts. Purchase receipts are
-validated with Apple to credit tokens.
+UUID). You do not need to provide your name, email, or contacts to use the App. Purchase receipts are validated with Apple to credit tokens or manage your Plus subscription and its allowances. If you contact support, we receive the email address, message and optional Support ID you provide so we can respond and investigate your request.
 
 **Usage analytics.** To understand which features work and fix problems, the
 App sends usage events (for example, which screens were opened, that a story
@@ -70,9 +69,24 @@ text, the details you type about your child, voice recordings, or voice names.
 Analytics data is not used for advertising and is not linked to your identity
 in other apps.
 
-**We do not collect** advertising identifiers, precise location, or your
-child's personal data, and we do not track you across other companies' apps
-or websites. The App is operated by the parent; children are listeners.
+**Ad measurement.** To learn which of our ads help families find the App, the
+App uses AppsFlyer, a mobile measurement service. When the App is first opened,
+AppsFlyer receives the anonymous identifier above, the App's vendor identifier
+(IDFV, which is the same only across apps from this developer), basic device
+information (device model, iOS version, app version, language) and the IP
+address of the request, from which it derives an approximate country; later it
+receives a few milestones: that a voice was created, that the first tale was
+narrated or listened to, and purchases (product and price). The App also asks
+Apple whether the install came from one of our Apple Ads campaigns (Apple's
+AdServices framework, which reports the campaign, ad group and keyword), and
+registers the install with Apple's SKAdNetwork and AdAttributionKit, which
+report installs to ad networks only in anonymous, aggregated form. We use this
+only to measure our own advertising. The App never asks for permission to
+track you and never reads the advertising identifier (IDFA); for ads on other
+networks (such as Google, TikTok or Meta) we and they see only aggregated
+campaign results, never which person installed the App.
+
+**We do not collect** advertising identifiers (IDFA) or precise location. We do not collect personal information directly from children. Parents may choose to provide story details as described above. The App is operated by the parent; children are listeners. We do not track you across other companies' apps or websites.
 
 **Our website (storiesinyourvoice.com).** The website uses two cookie-based
 ad measurement tools: the Meta Pixel from Meta Platforms and the Google tag
@@ -85,9 +99,7 @@ Google process this data under their own privacy policies
 [Google](https://policies.google.com/privacy)). You can block these tools with
 your browser's tracking protection or an ad blocker, and control ad
 personalization in your [Meta ad preferences](https://accountscenter.facebook.com/ad_preferences)
-and [Google ad settings](https://myadcenter.google.com/). The website does not
-ask for or store any other personal information, and none of this data is
-linked to the App.
+and [Google ad settings](https://myadcenter.google.com/). The support form collects your email address, message and optional Support ID. Voice invitation pages process recordings and consent as described above. Website ad measurement data is not linked to your in-app voice recordings or story details.
 
 ## Consent for voice cloning
 
@@ -108,7 +120,9 @@ We share data only with the processors required to run the App:
   provide)
 - **Cloudflare** — hosting, storage
 - **Amplitude** — anonymous usage analytics (see "Usage analytics" above)
-- **Apple** — in-app purchase processing
+- **AppsFlyer** — ad measurement (see "Ad measurement" above); it shares only
+  aggregated results with ad networks
+- **Apple** — in-app purchase processing and Apple Ads attribution
 - **Meta** and **Google** — ad measurement on our website only (see "Our
   website" above); they receive no data from the App
 

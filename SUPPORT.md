@@ -1,23 +1,35 @@
-# Bedtime Stories in Your Voice — Support
+# Hushkin: Bedtime Stories — Support
 
-Thanks for using Bedtime Stories in Your Voice! We're a small team and answer every email.
+Need help with Hushkin? Contact us below.
 
 ## Contact us
 
-Write to us with the form on this page, or email **volostnovdm@gmail.com**.
+Use the form at [storiesinyourvoice.com/support](https://storiesinyourvoice.com/support), or email [volostnovdm@gmail.com](mailto:volostnovdm@gmail.com).
 
 Please include your **Support ID** (Settings → Legal & support → tap "Support ID" to copy) — it helps us find your account instantly. When you open this page from the app, it's filled in for you. We reply within 1–2 business days.
 
 ## Common questions
 
+**Can I listen for free?**
+Yes. Selected stories have free readings by our storytellers. You do not need to record your own voice to listen to them.
+
+**Do I need Plus or tokens?**
+Hushkin offers two purchase options. Some accounts see Hushkin Plus, while others use tokens. Check the purchase screen in your app to see which option applies. Narration in family voices, additional voices and custom story creation use the allowance or balance shown there.
+
+**How does Hushkin Plus work?**
+Plus is an auto-renewing monthly or yearly subscription. It includes allowances for narration in your family voices, additional voices, AI-written stories and illustrations. Your app shows the price, current limits and any trial before you subscribe. Unused monthly allowance does not carry over. Free storyteller readings do not require Plus.
+
+**How do I restore or cancel Plus?**
+Open the Plus purchase screen and tap "Restore purchases" using the Apple Account that bought the subscription. To manage or cancel it, use "Manage subscription" in the app, or iPhone Settings → your name → Subscriptions. Deleting the app or your app data does not cancel an Apple subscription. For a purchase refund, use [reportaproblem.apple.com](https://reportaproblem.apple.com/).
+
 **Is my first voice free?**
-Yes. Recording your first voice clone is free. Each additional family voice costs 15 tokens.
+For accounts using tokens, the first voice is free and additional voices cost 15 tokens each. For Plus accounts, check the voice allowance and any trial shown in your app before creating a voice.
 
 **How do tokens work?**
-1 token narrates about 1,000 characters (~1 minute of audio). The exact price is always shown before you create an audiobook. Re-listening to anything you've already narrated is free, forever. If narration fails, you are never charged.
+For accounts using tokens, 1 token covers about 1,000 characters of narration. The exact cost is shown before you create a reading. Replaying a reading you have already created does not spend more tokens. If narration fails, you are not charged.
 
 **I paid but tokens didn't arrive.**
-Open the Tokens tab and tap "Missing tokens? Refresh balance" — this delivers any purchase that was paid for but not credited (for example if the app closed mid-purchase) and refreshes your balance. If you moved to a new iPhone or reinstalled the app and your balance is gone, write to us with your old Support ID if you have it — we'll move your tokens over. If the balance still looks wrong, email us with your Support ID and we'll fix it manually.
+Open the Tokens screen and tap "Missing tokens? Refresh balance" to check for paid purchases that were not credited. If your balance still looks wrong, or you changed phones and cannot recover it, contact us with your Support ID and any previous Support ID you have. Do not send your Apple Account password or payment card details.
 
 **How do I delete my voice or all my data?**
 In Settings, tap ⋯ next to a voice (or swipe left on it) to delete it, or use Settings → "Delete all my data" to remove everything: voice clones, narrated audio, and your balance — from our servers and your device. See our [Privacy Policy](https://storiesinyourvoice.com/privacy) for details.

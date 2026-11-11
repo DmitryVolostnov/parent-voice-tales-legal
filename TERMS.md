@@ -1,6 +1,6 @@
 # Terms of Use — Bedtime Stories in Your Voice
 
-_Last updated: September 29, 2026_
+_Last updated: October 24, 2026_
 
 By using Bedtime Stories in Your Voice ("the App") you agree to these terms.
 
@@ -34,6 +34,16 @@ based on your ideas. Narration is powered by third-party AI providers.
 - Tokens have no monetary value, are non-transferable, and are not redeemable
   for cash. Refunds for purchases are handled by Apple under their policies;
   refunded purchases may result in token balance adjustment.
+
+## 3a. Hushkin Plus subscription
+
+
+- Hushkin Plus is an auto-renewable subscription sold through Apple: **Plus · Yearly** (1 year, with a 3-day free trial for new subscribers) and **Plus · Monthly** (1 month). Prices are shown in the App before purchase, in your local currency.
+- Payment is charged to your Apple Account when you confirm the purchase (for the yearly plan, when the free trial ends). The subscription renews automatically for the same period and price unless you turn off auto-renew at least 24 hours before the end of the current period. You can manage or cancel it in your Apple Account settings (Settings → your name → Subscriptions).
+- Plus includes a monthly allowance of narrations in your own voices, additional voices, AI-written tales and pictures, as described in the App. Unused allowance does not carry over. Storyteller readings remain free.
+- Refunds are handled by Apple under its policies; you can request one at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+- If we ever stop offering Plus, renewals stop and you keep everything you paid for until the end of your current period.
+- Apple's standard [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies.
 
 ## 4. Content
 
